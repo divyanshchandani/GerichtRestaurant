@@ -25,12 +25,12 @@
   }
   
   .app__wrapper_info {
-    flex: 1;
-    width: 100%;
     display: flex;
+    flex: 1;
+    flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    flex-direction: column;
+    width: 100%;
   }
   
   .app__wrapper_img {
