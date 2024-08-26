@@ -2,10 +2,11 @@ import React from 'react';
 
 import './Gallery.css';
 
-const Gallery = () => (
+const Gallery = () => {
+  return (
   <div>
     Gallery
   </div>
-);
+)};
 
 export default Gallery;
